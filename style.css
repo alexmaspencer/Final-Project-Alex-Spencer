@@ -283,7 +283,7 @@ body.dark iframe {
     }
 
     header .banner p {
-        font-size: 0.5rem;  
+        font-size: 1.5rem;  
     }
     header img {
         position: absolute;
@@ -339,14 +339,14 @@ body.dark iframe {
 
 @media (max-width: 390px) {
     header .banner h1 {
-        font-size: 1.3rem;
+        font-size: 1.0rem;
     }
       header .banner p {
-        font-size: 1.0rem;  
+        font-size: 0.8rem;  
     }
     header img {
         position: absolute;
-        top: 50px;
+        top: 20px;
         left: 30px;
         height: 50px;
     }
