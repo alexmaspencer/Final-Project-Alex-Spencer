@@ -351,6 +351,13 @@ body.dark iframe {
         text-align: center;
         padding: 0;
     }
+    .banner{
+        widht: 100%
+    }
+
+    #header-label{
+        font-size: 0.5em;
+    }
       header .banner p {
         font-size: 0.8rem; 
           
