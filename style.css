@@ -355,6 +355,12 @@ body.dark iframe {
         flex-direction: column;
         align-items: center;
     }
+    header img {
+        position: fixed;
+        bottom: 20px;
+        left: 30px;
+        height: 1000px;
+    }
 
     header nav ul {
         list-style: none;
@@ -387,8 +393,8 @@ body.dark iframe {
         padding: 0;
     }
 
-    header img {
-        position: absolute;
+   header img {
+        position: fixed;
         bottom: 20px;
         left: 30px;
         height: 50px;
@@ -488,7 +494,7 @@ body.dark iframe {
     }
 
     header img {
-        position: absolute;
+        position: fixed;
         bottom: 20px;
         left: 30px;
         height: 50px;
