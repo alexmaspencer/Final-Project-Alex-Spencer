@@ -394,7 +394,7 @@ body.dark iframe {
     }
 
    header img {
-        position: fixed;
+        position: absolute;
         bottom: 20px;
         left: 30px;
         height: 50px;
@@ -474,7 +474,7 @@ body.dark iframe {
     }
 
      header img {
-        position: fixed;
+        position: absolute;
         bottom: 20px;
         left: 30px;
         height: 50px; 
@@ -502,7 +502,7 @@ body.dark iframe {
     }
 
     header img {
-        position: fixed;
+        position: absolute;
         bottom: 20px;
         left: 30px;
         height: 50px; 
