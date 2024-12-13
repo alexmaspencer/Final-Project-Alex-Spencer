@@ -349,10 +349,7 @@ body.dark iframe {
         align-items: center;
     }
     header img {
-        position: fixed;
-        bottom: 20px;
-        left: 30px;
-        height: 1000px;
+
         visibility:hidden;
     }
 
@@ -388,11 +385,7 @@ body.dark iframe {
     }
 
    header img {
-        position: fixed;
-        bottom: 200px;
-        left: 30px;
-        height: 50px;
-        z-index: 999; 
+    
         visibility:hidden;
     }
 
@@ -490,11 +483,7 @@ body.dark iframe {
     }
 
     header img {
-        position: fixed;
-        bottom: 200px;
-        left: 30px;
-        height: 50px; 
-        z-index: 999; 
+        
         display: hidden;
     }
 
