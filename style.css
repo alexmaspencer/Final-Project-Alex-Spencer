@@ -472,6 +472,12 @@ body.dark iframe {
         margin: 0 10px;
     }
 
+     header img {
+        position: fixed;
+        bottom: 20px;
+        left: 30px;
+        height: 50px;
+    }
     header nav ul li a {
         text-decoration: none;
         font-size: 16px;
@@ -484,7 +490,7 @@ body.dark iframe {
 }
 
 
-@media (max-width: 380px) {
+@media (max-width: 390px) {
     header .banner h1 {
         font-size: 1.5rem;
     }
