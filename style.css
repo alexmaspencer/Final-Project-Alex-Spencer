@@ -478,7 +478,7 @@ body.dark iframe {
 }
 
 
-@media (max-width: 390px) {
+@media (max-width: 380px) {
     header .banner h1 {
         font-size: 1.5rem;
     }
