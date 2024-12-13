@@ -398,6 +398,7 @@ body.dark iframe {
         bottom: 20px;
         left: 30px;
         height: 50px;
+        z-index: 999; 
     }
 
     body.dark iframe {
@@ -476,7 +477,8 @@ body.dark iframe {
         position: fixed;
         bottom: 20px;
         left: 30px;
-        height: 50px;
+        height: 50px; 
+        z-index: 999; 
     }
     header nav ul li a {
         text-decoration: none;
@@ -503,7 +505,8 @@ body.dark iframe {
         position: fixed;
         bottom: 20px;
         left: 30px;
-        height: 50px;
+        height: 50px; 
+        z-index: 999; 
     }
 
     nav ul {
