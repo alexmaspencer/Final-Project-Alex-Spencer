@@ -279,7 +279,10 @@ body.dark iframe {
 }
 @media (max-width: 768px) {
     header .banner h1 {
-        font-size: 2rem;  
+        width: 100%;  
+        text-align: center;
+        padding: 0; 
+        
     }
 
     header .banner p {
