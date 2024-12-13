@@ -339,10 +339,10 @@ body.dark iframe {
 
 @media (max-width: 390px) {
     header .banner h1 {
-        font-size: 1.8rem;
+        font-size: 1.3rem;
     }
       header .banner p {
-        font-size: 0.5rem;  
+        font-size: 1.0rem;  
     }
     header img {
         position: absolute;
